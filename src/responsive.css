@@ -1,0 +1,29 @@
+@media (max-width: 375px){
+    #card{
+        background-color: rgb(250, 250, 250);
+        width: 80vw;
+        height: 115vh;
+        margin-top: 10px;
+        border-radius: 10px;
+        color: hsl(228, 12%, 48%);
+        font-family: Montserrat;
+        flex-direction: column;
+    }
+
+    img{
+        margin-top: 5px;
+        border-radius: 10px;
+        width: 70vw;
+        height: 50vh;
+    }
+
+    button{
+        background-color: hsl(158, 36%, 37%);
+        width: 55vw;
+        height: 8vh;
+        border-radius: 10px;
+        margin-left: 10px;
+        color: #ffff;
+        font-size: 15px;
+    }
+}
